@@ -22,9 +22,9 @@ Great choice! A well-designed **GitHub README** makes your project stand out and
 
 ---
 
-### 📸 Screenshots
 
-| Light Mode                      | Dark Mode                     |
+
+|                   ### 📸 Screenshots
 | ------------------------------- | ----------------------------- |
 | ![Light](assets/light-mode.jpg) | ![Dark](assets/dark-mode.jpg) |
 
