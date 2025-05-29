@@ -26,7 +26,7 @@ Great choice! A well-designed **GitHub README** makes your project stand out and
 
 | Light Mode                      | Dark Mode                     |
 | ------------------------------- | ----------------------------- |
-| ![Light](assets/light-mode.png) | ![Dark](assets/dark-mode.png) |
+| ![Light](assets/light-mode.jpg) | ![Dark](assets/dark-mode.jpg) |
 
 
 
